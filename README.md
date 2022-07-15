@@ -9,6 +9,8 @@ Current problems solved count: 327
 
 ## Problem links:
 
+| Question at LeetCode [linked] | Solution in repository [linked] |
+| :--- | :---: |
 | [01 Matrix](//https://leetcode.com/problems/01-matrix/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/01-matrix.cpp) |
 | [Add Binary](//https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/add-binary.cpp) |
 | [Add Digits](//https://leetcode.com/problems/add-digits/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/add-digits.cpp) |
