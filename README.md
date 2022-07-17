@@ -1,7 +1,7 @@
 # LeetCode solutions
 
 LeetCode "Accepted" submissions. ([Profile Link](https://leetcode.com/NK04/))
-Current problems solved count: 327
+Current problems solved count: 334
 
 ## Format:
 
@@ -318,3 +318,11 @@ Current problems solved count: 327
 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/word-break.cpp) |
 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/word-pattern.cpp) |
 | [Xor Operation In An Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/xor-operation-in-an-array.cpp) |
+| [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/binary-tree-tilt.cpp) |
+| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/remove-covered-intervals.cpp) |
+| [Second Minimum Node In A Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/second-minimum-node-in-a-binary-tree.cpp) |
+| [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/count-good-nodes-in-binary-tree.cpp) |
+| [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/maximum-binary-tree.cpp) |
+| [Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/construct-binary-search-tree-from-preorder-traversal.cpp) |
+| [Construct String From Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Solution](https://github.com/nishita-kadian/leetcode/blob/main/solutions/construct-string-from-binary-tree.cpp) |
+
